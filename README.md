@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Acenic-Nuker.git
+   git clone https://github.com/acenichq/Acenic-Nuker-Updated.git
    cd Acenic-Nuker
    ```
 
