@@ -46,7 +46,6 @@
 - `.deletechannels` - Deletes all channels.
 - `.deleteroles` - Deletes all roles.
   
-> **Note**: The `banall` command has been separated from the main `nuke` command for more control.
 
 ## Legal Disclaimer
 
