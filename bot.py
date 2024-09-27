@@ -1268,7 +1268,7 @@ async def webhook(ctx, *, args=None):
 
 RATE_LIMIT_DELAY = 0.05  
 MAX_CONCURRENT_REQUESTS = 50  
-MESSAGES = ["@everyone nuked", "https://tenor.com/view/discord-server-discord-servers-discord-server-beluga-gif-25819396", "@everyone rip", "@everyone destruction", "@everyone chaos","Josh Valk is sigma ", "@everyone fucked", "@everyone https://discord.gg/tq7S48csa8", "@here probably made some robux by nuking this LMAO", "EZZZ" ]
+MESSAGES = ["@everyone nuked", "Josh Valk", "@everyone rip", "@everyone Nuked by Josh Valk", "@everyone chaos","Josh Valk is sigma ", "@everyone fucked", "@everyone https://discord.gg/tq7S48csa8", "@here probably made some robux by nuking this LMAO", "EZZZ" ]
 
 @commands.check(checkPerm)
 @client.command(name='nuke')
